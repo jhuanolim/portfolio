@@ -75,23 +75,23 @@ export default function AboutPage() {
               industry. That foundation in systems thinking shaped how I approach every problem since. When I relocated to Singapore to be closer 
               to family, I moved deliberately into data, joining the {" "}
               <span className="text-white font-medium">National University Polyclinic</span> to work on clinical analytics across {" "}
-              <span className="text-white font-medium">20,000+ patient records.</span> It was there I found my edge: <span className="text-white font-medium">spotting patterns in data that others hadn't flagged yet</span>, and translating them into 
+              <span className="text-white font-medium">20,000+ patient records.</span> It was there I found my edge: <span className="text-white font-medium">spotting patterns in data that others hadn&apos;t flagged yet</span>, and translating them into 
               decisions that actually changed how physicians worked.
             </p>
             <p>
               That instinct carried me to <span className="text-white font-medium">Galen Growth</span>, where I lead strategic analytics across a global digital health ecosystem — mapping markets, 
-              identifying growth drivers, and presenting directly to investor networks and founders. Where I'm headed next is <span className="text-white font-medium">Product Management</span>, 
-              and everything I've done so far has been pointed in that direction. 
+              identifying growth drivers, and presenting directly to investor networks and founders. Where I&apos;m headed next is <span className="text-white font-medium">Product Management</span>,
+              and everything I&apos;ve done so far has been pointed in that direction.
             </p>
             <p>
             After two years in Singapore without a decent climbing shoe resole service, I decided to fix it. On a trip to Vietnam I met master 
-            resolers from Barcelona, kept in touch, and what started as a conversation on a crag became <span className="text-white font-medium">a business plan.</span> I've handled everything 
+            resolers from Barcelona, kept in touch, and what started as a conversation on a crag became <span className="text-white font-medium">a business plan.</span> I&apos;ve handled everything 
             myself — market research, pricing, sourcing, branding — and the next step is training in Barcelona before bringing the craft back to 
             Singapore.
             </p>
             <p>
-            Same instinct, different domain: <span className="text-white font-medium">spot a gap, validate it, build something real.</span> Outside of work I'm most at home outdoors — bouldering, 
-            freediving, and white water kayaking. Calculated risk, full commitment, eyes on what's ahead.
+            Same instinct, different domain: <span className="text-white font-medium">spot a gap, validate it, build something real.</span> Outside of work I&apos;m most at home outdoors — bouldering, 
+            freediving, and white water kayaking. Calculated risk, full commitment, eyes on what&apos;s ahead.
             </p>
           </div>
 
