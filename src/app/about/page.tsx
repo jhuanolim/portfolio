@@ -2,23 +2,23 @@ import { ScrollReveal } from "@/components/scroll-reveal";
 
 const skills = [
   {
-    category: "Strategic Analytics",
-    tools: ["Power BI", "Tableau", "Python", "R"],
+    category: "Systems & Data",
+    tools: ["ETL Pipelines", "SQL/MSSQL/MySQL", "Python/R", "Git", "Excel/Sheets"],
     icon: "◈",
   },
   {
-    category: "Data Engineering",
-    tools: ["SQL", "ETL Pipelines", "MSSQL", "MySQL"],
+    category: "Analysis & Insight",
+    tools: ["Power BI/Tableau", "Predictive Modelling", "Root Cause Analysis", "MyMarket Intelligence"],
     icon: "◎",
   },
   {
-    category: "Stakeholder Communication",
-    tools: ["Executive Presentations", "Cross-functional Leadership"],
+    category: "Strategy & Delivery",
+    tools: ["Ecosystem Mapping", "Executive Presentations", "Project Management", "Cross-functional Leadership"],
     icon: "◇",
   },
   {
-    category: "Product Thinking",
-    tools: ["Roadmap Analysis", "Market Research", "User Journey Mapping"],
+    category: "Product & Design",
+    tools: ["User Journey Mapping", "Market Research", "Competitive Analysis", "Roadmap Thinking"],
     icon: "◉",
   },
 ];
@@ -38,7 +38,7 @@ const timeline = [
   },
   {
     role: "Software Engineer",
-    company: "SaaS Company",
+    company: "SaaS Film Industry",
     period: "Jan 2023 - Feb 2024",
     note: "ETL Pipelines,            New Zealand",
   },

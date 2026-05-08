@@ -5,8 +5,8 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 
 const stats = [
-  { label: "Years in Tech", value: "5+" },
-  { label: "Domains", value: "Health · SaaS" },
+  { label: "Years in Tech", value: "4+" },
+  { label: "Domains", value: "SaaS · Health" },
   { label: "Current Role", value: "Biz Analyst" },
   { label: "Open to", value: "SG · Remote" },
 ];
