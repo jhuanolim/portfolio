@@ -12,7 +12,7 @@ export default function BlogPage() {
           Writing
         </p>
         <h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl">
-          Thought Leadership
+          Articles coming soon. 
         </h1>
         <p className="text-base text-muted-foreground sm:text-lg">
           {/* TODO: Add articles on product strategy, data storytelling, and digital health */}

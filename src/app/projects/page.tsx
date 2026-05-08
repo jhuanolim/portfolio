@@ -19,8 +19,7 @@ export default function ProjectsPage() {
           Selected Work
         </h1>
         <p className="mb-16 max-w-xl text-base text-muted-foreground sm:text-lg">
-          A collection of projects spanning data strategy, product analysis, and
-          systems thinking across healthcare and digital health.
+          From Data Pipelines to Entrepreneurship — a mix of professional work and personal projects that reflect how I think and build.
         </p>
       </ScrollReveal>
 

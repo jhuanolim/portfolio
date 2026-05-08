@@ -27,7 +27,7 @@ export default function HomePage() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
               <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-primary" />
             </span>
-            Available for PM roles · Based in Singapore
+            Open to Strategy & Product roles · Based in Singapore
           </div>
         </motion.div>
 
@@ -38,7 +38,7 @@ export default function HomePage() {
           className="mb-5 text-5xl font-bold tracking-tight sm:text-6xl lg:text-7xl"
         >
           Hi, I&apos;m{" "}
-          <span className="gradient-text">Zachary</span>
+          <span className="gradient-text">Zac</span>
         </motion.h1>
 
         <motion.p
@@ -47,8 +47,8 @@ export default function HomePage() {
           transition={{ duration: 0.6, delay: 0.2, ease: [0.21, 0.47, 0.32, 0.98] }}
           className="mb-5 text-xl font-medium text-foreground/70 sm:text-2xl"
         >
-          Tech-savvy Strategist. Data-driven Decision Maker.{" "}
-          <span className="text-primary">Aspiring Product Builder.</span>
+          Tech-savvy Strategist. Data-driven Decision Maker.{" "}<br />
+          <span className="text-primary">Building the next great product.</span>
         </motion.p>
 
         <motion.p
@@ -59,7 +59,7 @@ export default function HomePage() {
         >
           I turn complex systems and messy data into clear strategy and
           measurable outcomes — bridging the gap between technical teams and
-          business leadership across digital health and SaaS.
+          business leadership across SaaS and Digital Health.
         </motion.p>
 
         <motion.div

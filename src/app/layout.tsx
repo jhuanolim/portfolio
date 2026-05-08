@@ -38,7 +38,7 @@ export default function RootLayout({
         <footer className="border-t border-border">
           <div className="mx-auto max-w-5xl px-6 py-10 flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-xs text-muted-foreground">
-              © 2025 Zachary Lim · Built with Next.js & Tailwind
+              © 2025 Zachary Lim 
             </p>
             <div className="flex items-center gap-6">
               {[
