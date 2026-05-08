@@ -128,6 +128,13 @@ export function Navbar() {
                   {label}
                 </Link>
               ))}
+              <Link
+                href="/contact"
+                onClick={() => setMenuOpen(false)}
+                className="mt-2 px-3 py-2.5 rounded-lg text-sm font-medium text-primary border border-primary/30 bg-primary/8 hover:bg-primary/15 transition-colors text-center"
+              >
+                Contact
+              </Link>
             </div>
           </motion.div>
         )}

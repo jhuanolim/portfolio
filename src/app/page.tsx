@@ -13,7 +13,7 @@ const stats = [
 
 export default function HomePage() {
   return (
-    <section className="relative mx-auto flex h-[calc(100vh-4rem)] max-w-5xl flex-col justify-center px-6">
+    <section className="relative mx-auto flex min-h-[calc(100vh-4rem)] max-w-5xl flex-col justify-center px-6 py-12">
 
       {/* Hero content */}
       <div className="relative z-10 max-w-3xl">
@@ -91,7 +91,7 @@ export default function HomePage() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, delay: 0.7 }}
-        className="relative z-10 mt-24 grid grid-cols-2 gap-px sm:grid-cols-4 rounded-2xl overflow-hidden border border-border bg-border"
+        className="relative z-10 mt-10 grid grid-cols-2 gap-px sm:grid-cols-4 rounded-2xl overflow-hidden border border-border bg-border"
       >
         {stats.map(({ label, value }) => (
           <div
