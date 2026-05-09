@@ -57,8 +57,8 @@ export default function AboutPage() {
           About Me
         </p>
         <h1 className="mb-16 text-4xl font-bold tracking-tight sm:text-5xl">
-          A deliberate career,{" "}
-          <span className="gradient-text">built across disciplines.</span>
+        Most people ask what I do. {" "}
+          <span className="gradient-text">The more interesting answer is why I keep moving.</span>
         </h1>
       </ScrollReveal>
 
@@ -67,12 +67,9 @@ export default function AboutPage() {
         <ScrollReveal delay={0.1}>
           <div className="space-y-6 text-base leading-relaxed text-muted-foreground sm:text-lg">
             <p>
-              Most people ask what I do. The more interesting answer is why I keep moving.
-            </p>
-            <p>
               I started as a {" "}
-              <span className="text-white font-medium">Software Engineer</span> at Vista Group in New Zealand, building ETL pipelines for a global SaaS platform serving the film 
-              industry. That foundation in systems thinking shaped how I approach every problem since. When I relocated to Singapore to be closer 
+              <span className="text-white font-medium">Software Engineer</span> at Vista Group in New Zealand, building ETL pipelines for a global SaaS platform used by cinemas globally.
+              That foundation in systems thinking shaped how I approach every problem since. When I relocated to Singapore to be closer 
               to family, I moved deliberately into data, joining the {" "}
               <span className="text-white font-medium">National University Polyclinic</span> to work on clinical analytics across {" "}
               <span className="text-white font-medium">20,000+ patient records.</span> It was there I found my edge: <span className="text-white font-medium">spotting patterns in data that others hadn&apos;t flagged yet</span>, and translating them into 
